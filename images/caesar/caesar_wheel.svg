@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="514.125"
+   height="514.09375"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="caesar_wheel.svg"
+   inkscape:export-filename="/home/sara/Masterthesis/Code/SKrypter/images/caesar_wheel.png"
+   inkscape:export-xdpi="87.529999"
+   inkscape:export-ydpi="87.529999">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="187.78272"
+     inkscape:cy="246.73953"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="367.87067,258.0124"
+       id="guide4888" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="256.4421,109.44097"
+       id="guide4890" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-114.98647,-269.13797)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#b4ddff;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="path3882"
+       sodipodi:cx="-46.467018"
+       sodipodi:cy="371.51938"
+       sodipodi:rx="254.55844"
+       sodipodi:ry="254.55844"
+       d="m 208.09142,371.51938 c 0,140.58874 -113.969693,254.55844 -254.558438,254.55844 -140.588742,0 -254.558442,-113.9697 -254.558442,-254.55844 0,-140.58875 113.9697,-254.55844 254.558442,-254.55844 140.588745,0 254.558438,113.96969 254.558438,254.55844 z"
+       transform="matrix(-1,0,0,-1,325.58022,897.70047)" />
+    <g
+       id="g3889"
+       transform="translate(-25.095619,22.390341)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997"
+         d="m 306.97286,266.02912 180.34,475.52327"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-0"
+         d="M 252.69352,294.51674 541.5922,713.06477"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-3"
+         d="m 206.80886,335.16634 380.668,337.24883"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-1"
+         d="M 171.98548,385.61556 622.30024,621.96595"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-9"
+         d="M 150.24713,442.93255 644.03859,564.64896"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-97"
+         d="m 142.85715,503.78631 508.57142,0.009"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-00"
+         d="M 171.98134,621.95808 622.30438,385.62343"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-0-6"
+         d="M 206.80297,672.40851 587.48275,335.173"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-3-2"
+         d="M 252.68621,713.05972 541.59951,294.52179"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-1-9"
+         d="M 306.96456,741.54924 487.32116,266.03227"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-9-1"
+         d="M 366.48362,756.22141 427.8021,251.3601"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-97-3"
+         d="M 427.78445,756.22355 366.50129,251.35795"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-97-37"
+         d="M 644.04072,442.94117 150.245,564.64032"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3882-2"
+       sodipodi:cx="-46.467018"
+       sodipodi:cy="371.51938"
+       sodipodi:rx="254.55844"
+       sodipodi:ry="254.55844"
+       d="m 208.09142,371.51938 c 0,140.58874 -113.969693,254.55844 -254.558438,254.55844 -140.588742,0 -254.558442,-113.9697 -254.558442,-254.55844 0,-140.58875 113.9697,-254.55844 254.558442,-254.55844 140.588745,0 254.558438,113.96969 254.558438,254.55844 z"
+       transform="matrix(0.8054917,0,0,0.8054917,409.47604,226.92531)" />
+    <g
+       id="g3129">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3922"
+         y="311.36218"
+         x="372.04724"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="311.36218"
+           x="372.04724"
+           id="tspan3924"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         sodipodi:linespacing="125%"
+         id="text3922-9"
+         y="-741"
+         x="-372.04724"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-741"
+           x="-372.04724"
+           id="tspan3924-0"
+           sodipodi:role="line">N</tspan></text>
+      <text
+         transform="matrix(0.97094246,-0.23931306,0.23931306,0.97094246,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-7"
+         y="385.10843"
+         x="235.31445"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="385.10843"
+           x="235.31445"
+           id="tspan3924-3"
+           sodipodi:role="line">Z</tspan></text>
+      <text
+         transform="matrix(-0.97094246,0.23931306,-0.23931306,-0.97094246,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-9"
+         y="-814.74622"
+         x="-235.31445"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-814.74622"
+           x="-235.31445"
+           id="tspan3924-0-1"
+           sodipodi:role="line">M</tspan></text>
+      <text
+         transform="matrix(0.88545852,-0.46471842,0.46471842,0.88545852,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-6"
+         y="423.98984"
+         x="84.906349"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="423.98984"
+           x="84.906349"
+           id="tspan3924-5"
+           sodipodi:role="line">Y</tspan></text>
+      <text
+         transform="matrix(-0.88545852,0.46471842,-0.46471842,-0.88545852,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-0"
+         y="-853.62762"
+         x="-84.906349"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-853.62762"
+           x="-84.906349"
+           id="tspan3924-0-9"
+           sodipodi:role="line">L</tspan></text>
+      <text
+         transform="matrix(0.74851609,-0.66311663,0.66311663,0.74851609,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-7-5"
+         y="425.74683"
+         x="-70.436089"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="425.74683"
+           x="-70.436089"
+           id="tspan3924-3-3"
+           sodipodi:role="line">X</tspan></text>
+      <text
+         transform="matrix(-0.74851609,0.66311663,-0.66311663,-0.74851609,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-9-6"
+         y="-855.38458"
+         x="70.436089"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-855.38458"
+           x="70.436089"
+           id="tspan3924-0-1-1"
+           sodipodi:role="line">K</tspan></text>
+      <text
+         transform="matrix(0.56807359,-0.82297776,0.82297776,0.56807359,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-68"
+         y="390.27725"
+         x="-221.6851"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="390.27725"
+           x="-221.6851"
+           id="tspan3924-7"
+           sodipodi:role="line">W</tspan></text>
+      <text
+         transform="matrix(-0.56807359,0.82297776,-0.82297776,-0.56807359,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-1"
+         y="-819.91504"
+         x="221.6851"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-819.91504"
+           x="221.6851"
+           id="tspan3924-0-94"
+           sodipodi:role="line">J</tspan></text>
+      <text
+         transform="matrix(0.35461744,-0.93501148,0.93501148,0.35461744,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-7-59"
+         y="319.64255"
+         x="-360.0509"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="319.64255"
+           x="-360.0509"
+           id="tspan3924-3-7"
+           sodipodi:role="line">V</tspan></text>
+      <text
+         transform="matrix(-0.35461744,0.93501148,-0.93501148,-0.35461744,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-9-67"
+         y="-749.28027"
+         x="360.0509"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-749.28027"
+           x="360.0509"
+           id="tspan3924-0-1-15"
+           sodipodi:role="line">I</tspan></text>
+      <text
+         transform="matrix(0.12055267,-0.99270693,0.99270693,0.12055267,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-6-1"
+         y="217.94754"
+         x="-477.49231"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="217.94754"
+           x="-477.49231"
+           id="tspan3924-5-8"
+           sodipodi:role="line">U</tspan></text>
+      <text
+         transform="matrix(-0.12055267,0.99270693,-0.99270693,-0.12055267,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-0-7"
+         y="-647.58527"
+         x="477.49231"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-647.58527"
+           x="477.49231"
+           id="tspan3924-0-9-8"
+           sodipodi:role="line">H</tspan></text>
+      <text
+         transform="matrix(-0.12051802,-0.99271114,0.99271114,-0.12051802,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-7-5-4"
+         y="91.102257"
+         x="-567.18427"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="91.102257"
+           x="-567.18427"
+           id="tspan3924-3-3-5"
+           sodipodi:role="line">T</tspan></text>
+      <text
+         transform="matrix(0.12051802,0.99271114,-0.99271114,0.12051802,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-9-6-7"
+         y="-520.73999"
+         x="567.18427"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-520.73999"
+           x="567.18427"
+           id="tspan3924-0-1-1-3"
+           sodipodi:role="line">G</tspan></text>
+      <text
+         transform="matrix(-0.56804485,-0.8229976,0.8229976,-0.56804485,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-68-8"
+         y="-207.51938"
+         x="-644.38525"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-207.51938"
+           x="-644.38525"
+           id="tspan3924-7-1"
+           sodipodi:role="line">R</tspan></text>
+      <text
+         transform="matrix(0.56804485,0.8229976,-0.8229976,0.56804485,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-1-3"
+         y="-222.11838"
+         x="644.38525"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-222.11838"
+           x="644.38525"
+           id="tspan3924-0-94-8"
+           sodipodi:role="line">E</tspan></text>
+      <text
+         transform="matrix(-0.74849294,-0.66314275,0.66314275,-0.74849294,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-7-59-9"
+         y="-361.94125"
+         x="-627.40784"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-361.94125"
+           x="-627.40784"
+           id="tspan3924-3-7-8"
+           sodipodi:role="line">Q</tspan></text>
+      <text
+         transform="matrix(0.74849294,0.66314275,-0.66314275,0.74849294,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-9-67-6"
+         y="-67.696465"
+         x="627.40784"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-67.696465"
+           x="627.40784"
+           id="tspan3924-0-1-15-2"
+           sodipodi:role="line">D</tspan></text>
+      <text
+         transform="matrix(-0.8854423,-0.46474932,0.46474932,-0.8854423,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-6-1-9"
+         y="-507.81314"
+         x="-573.96857"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-507.81314"
+           x="-573.96857"
+           id="tspan3924-5-8-5"
+           sodipodi:role="line">P</tspan></text>
+      <text
+         transform="matrix(0.8854423,0.46474932,-0.46474932,0.8854423,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-0-7-4"
+         y="78.175423"
+         x="573.96857"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="78.175423"
+           x="573.96857"
+           id="tspan3924-0-9-8-8"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         transform="matrix(-0.97093411,-0.23934694,0.23934694,-0.97093411,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-7-5-4-2"
+         y="-636.65765"
+         x="-487.17322"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-636.65765"
+           x="-487.17322"
+           id="tspan3924-3-3-5-3"
+           sodipodi:role="line">O</tspan></text>
+      <text
+         transform="matrix(0.97093411,0.23934694,-0.23934694,0.97093411,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-9-6-7-7"
+         y="207.01991"
+         x="487.17322"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="207.01991"
+           x="487.17322"
+           id="tspan3924-0-1-1-3-9"
+           sodipodi:role="line">B</tspan></text>
+      <text
+         transform="matrix(-0.3545848,-0.93502386,0.93502386,-0.3545848,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-7-5-4-7"
+         y="-53.52166"
+         x="-623.91418"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-53.52166"
+           x="-623.91418"
+           id="tspan3924-3-3-5-35"
+           sodipodi:role="line">S</tspan></text>
+      <text
+         transform="matrix(0.3545848,0.93502386,-0.93502386,0.3545848,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3922-9-9-6-7-5"
+         y="-376.11609"
+         x="623.91418"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+         xml:space="preserve"><tspan
+           style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+           y="-376.11609"
+           x="623.91418"
+           id="tspan3924-0-1-1-3-2"
+           sodipodi:role="line">F</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="518.57141"
+       y="688.07648"
+       id="text4206"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4208"
+         x="518.57141"
+         y="688.07648" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="372.85715"
+       y="740.93359"
+       id="text4210"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4212"
+         x="372.85715"
+         y="740.93359" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4214"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4216"><rect
+           id="rect4218"
+           width="932.85712"
+           height="724.28571"
+           x="-54.285713"
+           y="230.93361" /></flowRegion><flowPara
+         id="flowPara4220" /></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#ffa9e6;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="path3882-7"
+       sodipodi:cx="-46.467018"
+       sodipodi:cy="371.51938"
+       sodipodi:rx="254.55844"
+       sodipodi:ry="254.55844"
+       d="m 208.09142,371.51938 c 0,140.58874 -113.969693,254.55844 -254.558438,254.55844 -140.588742,0 -254.558442,-113.9697 -254.558442,-254.55844 0,-140.58875 113.9697,-254.55844 254.558442,-254.55844 140.588745,0 254.558438,113.96969 254.558438,254.55844 z"
+       transform="matrix(-0.8093618,0,0,-0.8093618,334.43861,826.87469)" />
+    <g
+       id="g3889-4"
+       transform="matrix(0.8093618,0,0,0.8093618,50.614986,118.43211)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-31"
+         d="m 306.97286,266.02912 180.34,475.52327"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-0-5"
+         d="M 252.69352,294.51674 541.5922,713.06477"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-3-4"
+         d="m 206.80886,335.16634 380.668,337.24883"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-1-1"
+         d="M 171.98548,385.61556 622.30024,621.96595"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-9-5"
+         d="M 150.24713,442.93255 644.03859,564.64896"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-97-5"
+         d="m 142.85715,503.78631 508.57142,0.009"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-00-5"
+         d="M 171.98134,621.95808 622.30438,385.62343"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-0-6-2"
+         d="M 206.80297,672.40851 587.48275,335.173"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-3-2-7"
+         d="M 252.68621,713.05972 541.59951,294.52179"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-1-9-3"
+         d="M 306.96456,741.54924 487.32116,266.03227"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-9-1-9"
+         d="M 366.48362,756.22141 427.8021,251.3601"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-97-3-3"
+         d="M 427.78445,756.22355 366.50129,251.35795"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-97-37-3"
+         d="M 644.04072,442.94117 150.245,564.64032"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3882-2-3"
+       sodipodi:cx="-46.467018"
+       sodipodi:cy="371.51938"
+       sodipodi:rx="254.55844"
+       sodipodi:ry="254.55844"
+       d="m 208.09142,371.51938 c 0,140.58874 -113.969693,254.55844 -254.558438,254.55844 -140.588742,0 -254.558442,-113.9697 -254.558442,-254.55844 0,-140.58875 113.9697,-254.55844 254.558442,-254.55844 140.588745,0 254.558438,113.96969 254.558438,254.55844 z"
+       transform="matrix(0.65193421,0,0,0.65193421,402.34069,283.9749)" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="372.04724"
+       y="352.31488"
+       id="text3922-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3924-9"
+         x="372.04724"
+         y="352.31488"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-372.04724"
+       y="-700.0473"
+       id="text3922-9-4"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-7"
+         x="-372.04724"
+         y="-700.0473"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="235.31445"
+       y="426.06113"
+       id="text3922-7-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.97094246,-0.23931306,0.23931306,0.97094246,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-3-72"
+         x="235.31445"
+         y="426.06113"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">Z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-235.31445"
+       y="-773.79352"
+       id="text3922-9-9-68"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.97094246,0.23931306,-0.23931306,-0.97094246,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-1-3"
+         x="-235.31445"
+         y="-773.79352"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="84.906349"
+       y="464.94254"
+       id="text3922-6-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.88545852,-0.46471842,0.46471842,0.88545852,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-5-1"
+         x="84.906349"
+         y="464.94254"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-84.906349"
+       y="-812.67493"
+       id="text3922-9-0-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.88545852,0.46471842,-0.46471842,-0.88545852,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-9-87"
+         x="-84.906349"
+         y="-812.67493"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-70.436089"
+       y="466.69952"
+       id="text3922-7-5-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.74851609,-0.66311663,0.66311663,0.74851609,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-3-3-0"
+         x="-70.436089"
+         y="466.69952"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="70.436089"
+       y="-814.43188"
+       id="text3922-9-9-6-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.74851609,0.66311663,-0.66311663,-0.74851609,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-1-1-31"
+         x="70.436089"
+         y="-814.43188"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-221.6851"
+       y="431.22995"
+       id="text3922-68-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.56807359,-0.82297776,0.82297776,0.56807359,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-7-0"
+         x="-221.6851"
+         y="431.22995"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="221.6851"
+       y="-778.96234"
+       id="text3922-9-1-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.56807359,0.82297776,-0.82297776,-0.56807359,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-94-4"
+         x="221.6851"
+         y="-778.96234"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-360.0509"
+       y="360.59525"
+       id="text3922-7-59-91"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.35461744,-0.93501148,0.93501148,0.35461744,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-3-7-5"
+         x="-360.0509"
+         y="360.59525"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="360.0509"
+       y="-708.32758"
+       id="text3922-9-9-67-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.35461744,0.93501148,-0.93501148,-0.35461744,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-1-15-6"
+         x="360.0509"
+         y="-708.32758"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-477.49231"
+       y="258.90024"
+       id="text3922-6-1-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.12055267,-0.99270693,0.99270693,0.12055267,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-5-8-0"
+         x="-477.49231"
+         y="258.90024"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">U</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="477.49231"
+       y="-606.63257"
+       id="text3922-9-0-7-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.12055267,0.99270693,-0.99270693,-0.12055267,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-9-8-2"
+         x="477.49231"
+         y="-606.63257"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-567.18427"
+       y="132.05495"
+       id="text3922-7-5-4-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.12051802,-0.99271114,0.99271114,-0.12051802,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-3-3-5-1"
+         x="-567.18427"
+         y="132.05495"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="567.18427"
+       y="-479.78732"
+       id="text3922-9-9-6-7-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.12051802,0.99271114,-0.99271114,0.12051802,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-1-1-3-3"
+         x="567.18427"
+         y="-479.78732"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-644.38525"
+       y="-166.56668"
+       id="text3922-68-8-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.56804485,-0.8229976,0.8229976,-0.56804485,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-7-1-4"
+         x="-644.38525"
+         y="-166.56668"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="644.38525"
+       y="-181.1657"
+       id="text3922-9-1-3-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.56804485,0.8229976,-0.8229976,0.56804485,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-94-8-9"
+         x="644.38525"
+         y="-181.1657"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-627.40784"
+       y="-320.98859"
+       id="text3922-7-59-9-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.74849294,-0.66314276,0.66314276,-0.74849294,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-3-7-8-5"
+         x="-627.40784"
+         y="-320.98859"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="627.40784"
+       y="-26.743782"
+       id="text3922-9-9-67-6-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.74849294,0.66314276,-0.66314276,0.74849294,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-1-15-2-9"
+         x="627.40784"
+         y="-26.743782"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-573.96857"
+       y="-466.86047"
+       id="text3922-6-1-9-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.8854423,-0.46474933,0.46474933,-0.8854423,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-5-8-5-3"
+         x="-573.96857"
+         y="-466.86047"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="573.96857"
+       y="119.12811"
+       id="text3922-9-0-7-4-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8854423,0.46474933,-0.46474933,0.8854423,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-9-8-8-0"
+         x="573.96857"
+         y="119.12811"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-487.17322"
+       y="-595.70496"
+       id="text3922-7-5-4-2-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.97093411,-0.23934694,0.23934694,-0.97093411,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-3-3-5-3-2"
+         x="-487.17322"
+         y="-595.70496"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="487.17322"
+       y="247.9726"
+       id="text3922-9-9-6-7-7-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.97093411,0.23934694,-0.23934694,0.97093411,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-1-1-3-9-9"
+         x="487.17322"
+         y="247.9726"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="-623.91418"
+       y="-12.56897"
+       id="text3922-7-5-4-7-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.3545848,-0.93502386,0.93502386,-0.3545848,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-3-3-5-35-1"
+         x="-623.91418"
+         y="-12.56897"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Khmer OS;-inkscape-font-specification:Khmer OS"
+       x="623.91418"
+       y="-335.16342"
+       id="text3922-9-9-6-7-5-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.3545848,0.93502386,-0.93502386,0.3545848,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3924-0-1-1-3-2-3"
+         x="623.91418"
+         y="-335.16342"
+         style="font-size:29.94638634px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Khmer OS;-inkscape-font-specification:Khmer OS">F</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4886"
+       sodipodi:sides="3"
+       sodipodi:cx="84.285713"
+       sodipodi:cy="185.21933"
+       sodipodi:r1="104.37374"
+       sodipodi:r2="52.186871"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 174.67602,237.4062 -180.7806184,0 L 84.285714,80.845589 z"
+       inkscape:transform-center-y="4.8621505"
+       transform="matrix(-0.06000189,-0.06658983,0.33479565,-0.30167328,346.83237,558.52152)"
+       inkscape:transform-center-x="6.0241791" />
+  </g>
+</svg>

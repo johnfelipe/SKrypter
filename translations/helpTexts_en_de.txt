@@ -1,0 +1,427 @@
+Temp Storage for Help Texts
+
+<strong><span style="color:#4682b4;">Klartext</span></strong>
+<strong><span style="color:#eb4387;">Geheimtext</span></strong>
+
+Caesar 1
+
+English
+
+<p>In this task you should encrypt the given <strong><span style="color:#4682b4;">plaintext</span></strong> with the help of the Caesar wheel in the middle. If you want, you can randomly change the key by clicking on the "Random" button. If you are happy with your <strong><span style="color:#eb4387;">ciphertext</span></strong> the computer can check your answer. Just click on the button on the bottom right. </p>
+<p>If your solution is not entirely correct the program will indicate where you will need to do corrections.</p>
+<p><em>Hint: If you should still have some difficulties please read the section about the cryptosystem Caesar in the book (Page 24-27).</em><p>
+
+Deutsch
+
+<p>In dieser Übung sollte der gegebene <strong><span style="color:#4682b4;">Klartext</span></strong> mit Hilfe des Caesar Rades in der Mitte verschlüsselt werden. Wenn du möchtest, kannst du den Schlüssel zufällig ändern, indem du auf den Knopf "Zufall" drückst. Wenn du mit deinem <strong><span style="color:#eb4387;">Geheimtext</span></strong> zufrieden bist, kannst du deine Lösung überprüfen lassen. Klicke dazu unten rechts auf den Knopf. </p>
+<p>Sollte deine Lösung noch nicht ganz korrekt sein, wird dir das Programm anzeigen, wo du noch Verbesserungen vernehmen solltest.</p>
+<p><em>Tipp: Falls du trotzdem noch Schwierigkeiten hast, lies bitte im Buch den Abschnitt über das Kryptosystem Caesar (Seite 24-27).</em></p>
+
+
+TEACHER
+
+<p><strong>Introduction to creating exercises</strong></p>
+<p>Every exercise you as a teacher will be creating needs the same basic parameters: a title, a language and the information whether the text shown to students should be containing upper- and lowercase letters as well as blanks. Additionally you always need to provide a plaintext. The program will then - if necessary - automatically display the ciphertext. For certain exercises more information is required.</p>
+<p>In the toolbar you have several "teacher" options. You can create a new exercise, revert all current changes to the previously saved version, save the exercise (this will overwrite the current version), save the exercise under a new name or delete the current exercise. Some buttons are only active when you can actually perform the corresponding action (e.g. if there are no changes you cannot click on the revert button).</p>
+<p><strong>Information about Caesar 1</strong></p>
+<p>In this exercise students will have to encrypt a given text manually with the help of the Caesar wheel component. For this reason it is recommended that the entered plaintext is rather short as the task may otherwise become very repetitive for students.</p>
+
+<p><strong>Einführung: Erstellen von Übungen</strong></p>
+<p>Jede Übung, die Sie als Lehrer erstellen, benötigt die selben Basis-Parameter: einen Titel, eine Sprache und die Information, ob der Test, der den Schülern gezeigt wird, Gross- und Kleinbuchstaben sowie Leerzeichen enthalten soll. Zusätzlich muss jeweils ein Klartext eingegeben werden. Das Program wird dann - falls es gebraucht wird - automatisch den Geheimtext berechnen. Für gewisse Übungen werden noch weitere Informationen benötigt.</p>
+<p>In der Toolbar gibt es verschiedene "Lehrer" Optionen. Sie können eine neue Übung erstellen, alle bisherigen Änderungen rückgängig machen bis zu der vorherigen gespeicherten Version, die Übung speichern (dies wird die aktuelle Version überschreiben), die Übung unter einem neuen Namen speichern oder die Übung löschen. Gewisse Knöpfe sind nur dann aktiv, wenn sie auch wirklich aktiviert sind (z.Bsp. wenn es keine Änderungen hat, kann man nicht auf den rückgangig machen Knopf klicken).</p>
+<p><strong>Information zu Caesar 1</strong></p>
+<p>In dieser Übung müssen Schüler einen gegebenen Test mit Hilfe des Caesar Rades von Hand verschlüsseln. Aus diesem Grund ist es ratsam, den Klartext eher kurz zu halten, da die Aufgabe sonst zu repetitiv wird.</p>
+
+Caesar 2
+
+English
+
+<p>In this task you should decrypt the given <strong><span style="color:#eb4387;">ciphertext</span></strong>. Proceed in two steps. </p>
+<p>In the middle of the screen you see a large secret letter and to which <strong><span style="color:#4682b4;">plaintext</span></strong> letter it is mapped. With this information you can find out which key was used. Write your answer in the textfield at the bottom left and let it be checked by the program. If your key is correct you can now decrypt the <strong><span style="color:#eb4387;">ciphertext</span></strong>.</p>
+<p>If you feel like your <strong><span style="color:#4682b4;">plaintext</span></strong> is correct let it be checked by the program. As with the first scenario the program will show you any inconsistencies and where you should correct something. </p>
+<p><em>Hint: In case you have difficulties to find out the key you best make a small example on paper. Take special care to see which letter is from the <strong><span style="color:#4682b4;">plaintext</span></strong> and which one is from the <strong><span style="color:#eb4387;">ciphertext</span></strong>. </em></p>
+
+Deutsch
+
+<p>In dieser Übung soll der gegebene <strong><span style="color:#eb4387;">Geheimtext</span></strong> entschlüsselt werden. Dazu muss in zwei Schritten vorgegangen werden. </p>
+<p>In der Mitte siehst du gross einen Geheimbuchstaben und auf welchen <strong><span style="color:#4682b4;">Klartext</span></strong>buchstaben dieser abgebildet wird. Mit dieser Hilfe kannst du den Schlüssel, der benutzt wurde, herausfinden. Schreibe deine Antwort in das Textfeld unten links und lasse sie vom Programm überprüfen. Sollte der Schlüssel richtig sein, kannst du nun den <strong><span style="color:#eb4387;">Geheimtext</span></strong> entschlüsseln.</p>
+<p>Sobald du mit deinem <strong><span style="color:#4682b4;">Klartext</span></strong> zufrieden bist, kannst du unten rechts deine Antwort vom Programm prüfen lassen. Wie beim ersten Szenario wird dir auch hier der Computer bei Unstimmigkeiten anzeigen, wo du noch Verbesserungen anbringen solltest.</p>
+<p><em>Tipp: Falls du Mühe hast, den Schlüssel herauszufinden, mache am Besten auf Papier ein kleines Beispiel. Achte besonders darauf, welcher Buchstabe zum <strong><span style="color:#eb4387;">Geheimtext</span></strong> und welcher zum <strong><span style="color:#4682b4;">Klartext</span></strong> gehört.</em></p>
+
+TEACHER
+
+<p>This task will test students understanding of modular addition. They will have to decrypt a given text with no help whatsoever. For this reason it is again important that the entered text is not overly long. As an additional first step students have to determine the encryption key based on a plaintext and ciphertext letter. These have to be entered while creating the task.</p>
+<p>The plainletter and the cipherletter are not allowed to be identical</p>
+
+<p>Diese Aufgabe soll überprüfen, ob Schüler modulare Addition verstehen. Sie müssen dazu einen gegebenen Text ohne jegliche Hilfe entschlüsseln. Aus diesem Grund ist es wieder wichtig, dass der eingegebene Text nicht allzu lang ist. Zusätzlich müssen Schüler in einem ersten Schritt den Schlüssel basierend auf einem Klartext- und einem Geheimtext-Buchstaben herausfinden. Diese sollten Sie bitte eingeben beim Erstellen einer Aufgabe.</p>
+<p>Der Geheimtext- und der Klartext-Buchstabe dürfen nicht identisch sein.</p>
+
+Caesar 3
+
+English
+
+<p>In this exercise you can see for yourself how easy it is to attack a text encrypted with Caesar. One can simply try out all possible 26 (25 if you do not count the trivial key 0) possible keys.</p>
+<p>This is exactly what you can do in this task. Keep turning the Caesar wheel until the <strong><span style="color:#4682b4;">plaintext</span></strong> is correct.</p>
+
+Deutsch
+
+<p>In dieser Übung sollst du selber ausprobieren, wie einfach es ist, einen mit Caesar verschlüsselten Text zu entschlüsseln. Man kann dazu einfach alle möglichen 26 (25 wenn man den trivialen Schlüssel 0 nicht zählt) Schlüssel ausprobieren.</p>
+<p>Genau das darfst du in dieser Aufgabe machen. Drehe so lange am Caesar Rad, bis der <strong><span style="color:#4682b4;">Klartext</span></strong> korrekt ist.</p>
+
+TEACHER
+
+This task will have students using brute force to decrypt the ciphertext. Therefore it does not really matter what text is entered.
+
+In dieser Übung sollen die Schüler einen Brute-Force-Angriff ausführen. Deshalb spielt es keine Rolle, wie der Klartext aussieht.
+
+Caesar 4
+
+English
+
+<p>In this task we want to draw nearer to methods with which Caesar can be attacked more efficiently than seen in the previous task. </p>
+<p>To do this you should find the three most frequent letters in the given <strong><span style="color:#eb4387;">ciphertext</span></strong> and entere these on the shown podium. If different letters have the same number of occurrences you can enter them in arbitrary order. If you are happy with your answer click on the "Check" button. </p>
+<p>If your answer is incorrect, look again at the <strong><span style="color:#eb4387;">ciphertext</span></strong> and count the letters. If your answer is correct the program will show you the frequencies of all letters in the given <strong><span style="color:#eb4387;">ciphertext</span></strong> together with the frequencies of the exercise language. Do you notice something?</p>
+
+Deutsch
+
+<p>In dieser Aufgabe wollen wir uns Methoden nähern, mit denen Caesar effizienter attackiert werden kann als in der Aufgabe zuvor.</p>
+<p>Dazu sollst du im gegebenen <strong><span style="color:#eb4387;">Geheimtext</span></strong> die 3 häufigsten Buchstaben finden und diese auf dem Podest eintragen. Sollten verschiedene Buchstaben gleich oft vorkommen, kannst du sie in beliebiger Reihenfolge eintragen. Bist du mit deiner Antwort zufrieden, so klicke auf den "Prüfen" Knopf.</p>
+<p>Ist deine Antwort falsch, so schaue dir den <strong><span style="color:#eb4387;">Geheimtext</span></strong> noch einmal genau an und zähle die Buchstaben. Ist deine Antwort korrekt, zeigt dir das Programm die Häufigkeiten aller 26 Buchstaben im gegebenen <strong><span style="color:#eb4387;">Geheimtext</span></strong> zusammen mit den Häufigkeiten der Sprache der Übung an. Siehst du schon etwas?</p>
+
+TEACHER
+
+This scenario starts to focus on more efficient methods for attacking a Ceasar ciphertext. While entering the text please take notice of the statistics that are displayed in real-time. They will demonstrate how closely your text is matching the statistics of the chosen language.
+
+Dieses Szenario beschäftigt sich mit effektiveren Methoden, um einen Caesar Geheimtext anzugreiffen. Während Sie den Klartext eingeben, beachten Sie bitte die Statistiken, die in Echzeit angezeit werden. Sie werden zeigen, wie genau die Statistiken ihres Textes und der gewählten Sprache zusammenpassen.
+
+Caesar 5
+
+English
+
+<p>In this last Caesar task you should attack the given <strong><span style="color:#eb4387;">ciphertext</span></strong> and maximally 3 tries. As an assistance the program will provide you with the relative frequencies of all letters in the <strong><span style="color:#eb4387;">ciphertext</span></strong> as well as those of the exercise language. </p>
+<p>You can drag the upper letter row to the left or the right. If you are happy with the displayed key click on the "Try" button. The computer will then decrypt the <strong><span style="color:#eb4387;">ciphertext</span></strong> with your key and check if the answer is correct. </p>
+<p>If your answer is not correct, you will have a try less. You only have 3 tries.</p>
+<p><em>Hint: Make sure to consider the relative frequencies of all letters and not just of the most frequent letter. </em></p>
+
+German
+
+<p>In dieser letzten Caesar Aufgabe sollst du den gegebenen <strong><span style="color:#eb4387;">Geheimtext</span></strong> in maximal 3 Versuchen entschlüsseln. Als Hilfe bekommst du vom Programm die relativen Häufigkeiten der Buchstaben im <strong><span style="color:#eb4387;">Geheimtext</span></strong> sowie jene der Sprache der Übung.</p>
+<p>Du kannst die obere Buchstabenreihe nach links oder rechts ziehen. Bist du mit deinem Schlüssel zufrieden, klicke auf "Probieren". Der Computer entschlüsselt dann den <strong><span style="color:#eb4387;">Geheimtext</span></strong> mit dem angegebenen Schlüssel und überprüft, ob deine Antwort korrekt ist.</p>
+<p>Ist deine Antwort nicht richtig, so hast du einen Versuch weniger. Du hast maximal 3 Versuche.</p>
+<p><em>Tipp: Achte auf die relativen Häufigkeiten aller Buchstaben, nicht nur des häufigsten.</em></p>
+
+TEACHER
+
+This last scenario is a Caesar attack. To discourage brute force approaches students only have three lives to complete the task. For this reason it might be a good idea to have a text that overall matches the frequency distribution quite well. It is not necessary to have the most frequent letters matching, as long as the overall distribution matches.
+
+Dieses letzte Szenario ist ein Caesar Angriff. Um zu vermeiden, dass Schüler einen Brute-Force-Angriff durchführen, haben sie nur drei Leben, um die Aufgabe zu meistern. Aus diesem Grund könnte es eine gute Idee sein, den Text so zu wählen, dass die Häufigkeitsverteilung insgesamt gut passt. Es ist nicht nötig, dass die häufigsten Buchstaben übereinstimmen, solange die Verteilung grundsätzlich passt.
+
+Perm 1
+
+English
+
+<p>In this exercise the given <strong><span style="color:#4682b4;">plaintext</span></strong> should be encrypted with the key which is shown in the middle. Feel free to randomly change the key by pressing on the button below. Notice the color of the frames around the letters. It shows you which text the letters belong to. </p>
+<p>Once you are confident with your <strong><span style="color:#eb4387;">ciphertext</span></strong> you can test your answer. To do that click on the button on the bottom right.</p>
+<p>In case your answer is not entirely correct, the program will show you where corrections are needed. </p>
+<p><em>Hint: If you should still have some difficulties please reas the section about monoalphabetic cryptosystems and the cryptosystem Perm in the book (page 80-84). </em></p>
+
+German
+
+<p>In dieser Übung soll der gegebene <strong><span style="color:#4682b4;">Klartext</span></strong> mit dem angezeigten Schlüssel in der Mitte verschlüsselt werden. Wenn du möchtest, kannst du den Schlüssel zufällig ändern, indem du auf den Knopf unter dem Schlüssel drückst. Beachte die Farbe der Rahmen um die Buchstaben, sie zeigt dir an, zu welchem Text die Buchstaben gehören.</p>
+<p>Wenn du mit deinem <strong><span style="color:#eb4387;">Geheimtext</span></strong> zufrieden bist, kannst du deine Lösung überprüfen lassen. Klicke dazu unten rechts auf den Knopf.</p>
+<p>Sollte deine Lösung noch nicht ganz korrekt sein, wird dir das Programm anzeigen, wo du noch Verbesserungen vernehmen solltest.</p>
+<p><em>Tipp: Falls du trotzdem noch Schwierigkeiten hast, lies bitte im Buch den Abschnitt über monoalphabetische Kryptosysteme und das Kryptosystem Perm (Seite 80-84).</em></p>
+
+
+TEACHER
+
+This first Perm task has students encrypting a given plaintext with a given key. Please be mindful of the length of the text entered as too long texts will cause the task to be repetitive.
+
+In dieser ersten Perm Aufgabe müssen Schülen einen gegebenen Klartext mit einem gegebenen Schlüssel verschlüsseln. Achten Sie bitte darauf, dass der eingegebene Text nicht zu lange ist, da die Aufgabe sonst zu repetitiv wird.
+
+
+
+Perm 2
+
+English
+
+<p>Here both the <strong><span style="color:#4682b4;">plaintext</span></strong> and the <strong><span style="color:#eb4387;">ciphertext</span></strong> are given. It is your task to find the key that was used. Swap the white letters in the middle until the key is correct. </p>
+<p>If you think the key you created is correct click on the "Check" button on the bottom right. The program will then tell you whether your solution is correct or not. If the key is incorrect you will get some hints as to where modifications have to be made. </p>
+<p><em>Hint: If you are having difficulties, then make sure to pay attention to the colors of the letters. If this still does not help, look at the letters which the program marks after checking. </em><p>
+
+German
+
+<p>In dieser Aufgabe sind der <strong><span style="color:#4682b4;">Klartext</span></strong> und der <strong><span style="color:#eb4387;">Geheimtext</span></strong> gegeben. Deine Aufgabe ist es nun, den verwendeten Schlüssel zu finden. Vertausche dazu die weissen Buchstaben in der Mitte, bis der Schlüssel stimmt.</p>
+<p>Wenn du meinst, dein erstellter Schlüssel sei korrekt, klicke unten rechts auf den "Prüfen" Knopf. Das Programm sagt dir dann entweder, dass deine Lösung korrekt ist oder dass du noch Verbesserungen vornehmen solltest. Es zeigt dir bei einem falschen Schlüssel zudem an, wo noch Anpassungen gemacht werden müssen.</p>
+<p><em>Tipp: Solltest du Schwierigkeiten haben, so achte auf die Farben der Buchstaben. Hilft dies nicht weiter, so achte auf die vom Programm markierten Buchstaben nach dem Prüfen.</em></p>
+
+TEACHER
+
+In this tasks students have to find the encryption key based on a plaintext/ciphertext pair. Any text entered will work for this task, however texts with all letters in the alphabet will take longer to solve than those where some letters are missing.
+
+Schüler müssen in dieser Aufgabe den Schlüssel basierend auf einem Klartext/Geheimtext Paar finden. Beliebige Texte können für diese Aufgabe verwendet werden. Es ist jedoch so, dass Schüler die Aufgabe schneller lösen können, wenn nicht alle Buchstaben im Text vorkommen.
+
+
+Perm 3
+
+English
+
+<p>Your task is to attack the given <strong><span style="color:#eb4387;">ciphertext</span></strong>. As assistance the program will provide you with the relative frequencies of all letters in the text as well as those of the exercise language. This letter element also acts as the key in the same way as the previous exercise. The only differences are the frequency information and the rectangles in the middle. </p>
+<p>Because it can be rather difficult to decrypt the <strong><span style="color:#eb4387;">ciphertext</span></strong>, especially if the text is short, you will also receive certain parts of the <strong><span style="color:#4682b4;">plaintext</span></strong>.</p>
+<p>You can swap the <strong><span style="color:#eb4387;">ciphertext</span></strong> letters by dragging them. If you are happy with a part of the key (namely one mapping of a <strong><span style="color:#eb4387;">ciphertext</span></strong> letter to a <strong><span style="color:#4682b4;">plaintext</span></strong> letter) you can lock it. To do this click on the orange rectangle between the two letters. Once locked the rectangle will be green. Additionally all locked letters will be decrypted automatically in the <strong><span style="color:#4682b4;">plaintext</span></strong>.</p>
+<p>Also notice that you can either sort the letters alphabetically or by percentages. If you sort all locked letters will be lost however. </p>
+<p><em>Hint: It can be very useful to sort the letters by percentage initially. Afterwards it may be a good idea to lock all known parts of the key. </em></p>
+
+Deutsch
+
+<p>In dieser Übung sollst du den gegebenen <strong><span style="color:#eb4387;">Geheimtext</span></strong> entschlüsseln. Als Hilfe erhältst du vom Programm die relativen Häufigkeiten aller Buchstaben im Text sowie der Sprache der Übung. Dieses Buchstaben Element dient zusätzlich als Schlüssel gleich wie in der vorigen Aufgabe. Die einzigen Unterschiede sind die Häufigkeitsangaben und die Rechtecke in der Mitte.</p>
+<p>Da es besonders bei kürzeren Texten sehr schwierig sein kann, den <strong><span style="color:#eb4387;">Geheimtext</span></strong> zu entschlüsseln, erhältst du zusätzlich noch bestimmte Teile des <strong><span style="color:#4682b4;">Klartext</span></strong>es.</p>
+<p>Du kannst die Geheimbuchstaben durch Ziehen vertauschen. Bist du mit einem Teil des Schlüssels zufrieden, kannst du ihn verriegeln. Klicke dazu auf das orange Rechteck beim entsprechenden Buchstaben. Verriegelte Rechtecke werden grün. Zudem werden alle verriegelten Buchstaben im <strong><span style="color:#4682b4;">Klartext</span></strong> automatisch entschlüsselt.</p>
+<p>Beachte auch, dass du die Buchstaben entweder alphabetisch oder prozentual sortieren kannst. Beim Sortieren werden jedoch alle verriegelten Buchstaben entriegelt.</p>
+<p><em>Tipp: Am Anfang kann es sehr hilfreich sein, die Buchstaben prozentual zu sortieren. Danach ist es eine gute Idee, alle bekannten Teile des Schlüssels zu verriegeln.</em></p>
+
+TEACHER
+
+<p>Students have to decrypt a given ciphertext with the help of single letter frequencies. Additionally you can create a partial plaintext that will be shown to students. This can greatly help students solve the task as it might be quite difficult.</p>
+<p>While entering the text the program will calculate the statistics in real-time. It should be clearly visible how closely the frequency distributions match. As a general advice, if the frequency distributions match closely the task is easier to solve. If the distributions do not match then it will be necessary to provide a partial plaintext. To do this simply click on the orange button above the letter you wish to provide to students. Additionally keep in mind that the task is easier when a distinction is made between upper- and lowercase characters and blanks are kept. To determine which letters would help students, but not make the task too easy it is recommended to switch to the student view and actually attempt to solve the task yourself and see where you get stuck.</p>
+
+<p>Schüler müssen den gegebenen Geheimtext mit Hilfe einer Häufigkeitsanalyse entschlüsseln. Zusätzlich können Sie einen Teil des Klartextes erstellen, der dann den Schülern angezeigt wird. Dies kann Schülern dabei helfen die Aufgabe zu lösen.</p>
+<p>Währen Sie einen Text eingeben, wird das Programm die Statistiken in Echtzeit aktualisieren. Es sollte klar ersichtlich sein, wie genau die Häufigkeitsverteilungen passen. Wenn die Verteilungen relativ gut passen, ist die Aufgabe generell einfacher zu lösen. Sollten die Verteilungen nicht so gut passen, ist es sicher nötig einen Teil des Klartextes zur Verfügung zu stellen. Um dies zu tun, klicken Sie einfach auf den orangen Knopf oberhalb des Buchstabens, der Schülern angezeigt werden soll. Zusätzlich beachten Sie, dass die Aufgabe deutlich einfacher wird, wenn sowohl Gross- und Kleinbuchstaben als auch Leerzeichen beibehalten werden. Um herauszufinden, welche Buchstaben im Klartext Schülern am meisten helfen, aber die Aufgabe trotzdem nicht zu einfach machen, empfehlen wir, dass Sie in die Schüleransicht wechseln und selber versuchen die Aufgabe zu lösen. Sie merken schnell, wo man stecken bleibt.</p>
+
+Perm 4
+
+English
+
+<p>As in the previous exercise, you should also decipher the given <strong><span style="color:#eb4387;">ciphertext</span></strong>. The program will however offer you a different kind of assistance. Instead of the frequencies of single letters you can now look at the relative frequencies of bi- and trigrams. This task should help you understand how you can use the information from bi- and trigrams to attack a text encrypted with Perm.</p>
+<p> Since it is a little bit difficult to attack a text solely with bi- and trigram analysis you will also get parts of the <strong><span style="color:#4682b4;">plaintext</span></strong>.</p>
+<p>Create the key with the upper element as usually and lock the desired letters. If you click on a bi- or trigram all occurrences of this particular xgram will be marked in the <strong><span style="color:#eb4387;">ciphertext</span></strong>. With the help of the arrows you can navigate between the bi- and trigram view, the key will no be changed by this. </p>
+<p><em>Hint: Start by locking all known letters of the key. When looking at the xgram, also pay attention to whether you already can decrypt one or more of the letters.</em></p>
+
+German
+
+<p>Auch in dieser Übung sollst du den gegebenen <strong><span style="color:#eb4387;">Geheimtext</span></strong> entschlüsseln. Das Programm gibt dir diesmal auf eine andere Weise Hilfe. Anstelle der Häufigkeiten von einzelnen Buchstaben kannst du dir die Häufigkeiten der Bi- und Trigramme ansehen. Diese Aufgabe soll dir dabei helfen zu verstehen, wie du die Informationen aus Bi- und Trigrammen für den Angriff auf einen mit Perm verschlüsselten Text verwenden kannst.</p>
+<p>Da es etwas schwierig ist, einen Text nur mit Bi- und Trigrammanalyse zu entschlüsseln, erhältst du zusätzlich Teile des <strong><span style="color:#4682b4;">Klartext</span></strong>es.</p>
+<p>Stelle den Schlüssel mit dem oberen Element wie gewohnt ein und verriegle alle gewünschten Buchstaben. Wenn du auf ein Bigramm oder ein Trigramm klickst, so wird es im <strong><span style="color:#eb4387;">Geheimtext</span></strong> markiert. Mit Hilfe der Pfeile kannst du zwischen der Bigramm- und der Trigramm-Ansicht wechseln, der Schlüssel wird dabei nicht verändert.</p>
+<p><em>Tipp: Verriegle zuerst alle bekannten Buchstaben des Schlüssels. Achte bei den Bigrammen immer darauf, ob du einen oder sogar beide Buchstaben bereits entschlüsseln kannst.</em></p>
+
+TEACHER
+
+<p>The only difference between this scenario and Perm scenario 3 is that students have to rely on bi- and trigram frequencies instead of single letter frequencies. To help you create a meaningful task you have the same tools available as for the previous scenario and additonally there is a bi- and a trigram analysis view.</p>
+<p>Both analysis views function in the same way. We explain it for bigrams here. The bottom row shows you the union of the ten most frequent bigrams in the chosen language together and the ten most frequent bigrams in your text. If your text is really "good", less bigrams will be displayed. The bigrams in the upper row are created by encrypting the bigrams in the lower row with the current key. We then calculate the frequencies of these bigrams in your ciphertext. If the frequencies match well with the lower row, your plaintext tends to be "better".</p>
+
+<p>Der einzige Unterschied zum Perm Szenario 3 ist, dass Schüler sich auf die Häufigkeiten der top Bi- und Trigramme verlassen müssen. Damit Sie eine sinnvolle Aufgabe erstellen können, haben sie zusätzlich zu den bekannten Hilfsmitteln noch eine Bi- und eine Trigramm-Analyseansicht.</p>
+<p>Beide Analyseansichten funktionieren auf dieselbe Art. Wir erklären es für die Bigram Analyse. Die untere Reihe zeigt die Schnittmenge der zehn häufigsten Bigramme der ausgewählten Sprache und der zehn häufigsten Bigramme des eingegebenen Klartextes. Wenn der eingegebene Klartext sehr "gut" ist, dann werden also weniger Bigramme angezeigt. Die Bigramme in der oberen Reihe werden erstellt durch Verschlüsselung der Bigramme in der unteren Reihe mit dem aktuellen Schlüssel. Wir berechnen anschliessend die Häufigkeiten dieser Bigramme in Ihrem Geheimtext. Wenn die Häufigkeiten gut passen, ist der Klartext tendentiell "besser".</p>
+
+
+Perm 5
+
+English
+
+<p>The given <strong><span style="color:#eb4387;">ciphertext</span></strong> should be attacked in this task. You now have all assistance available. In the upper part you see the frequencies of all letters. This part is also the key as you know it from previous exercises.</p>
+<p>In the lower part you can either look at the frequencies of bigrams of trigrams. This part is the same as in the previous exercise. </p>
+<p>An additional help is that you will be given a part of the <strong><span style="color:#4682b4;">plaintext</span></strong>. </p>
+<p><em>Hint: Work with all available help tools (partial <strong><span style="color:#4682b4;">plaintext</span></strong>, sorting of the individual letters, bigrams and trigrams)</em></p>
+
+German
+
+<p>In dieser Übung sollte der gegebene <strong><span style="color:#eb4387;">Geheimtext</span></strong> entschlüsselt werden. Dazu stehen dir nun alle Hilfsmittel zur Verfügung. Im oberen Teil siehst du die Häufigkeiten der einzelnen Buchstaben. Dieser Teil dient zusätzlich als Schlüssel, so wie du es bereits kennst.</p>
+<p>Im unteren Teil kannst du dir entweder die Häufigkeiten der Bigramme oder der Trigramme anzeigen lassen. Auch dieser Teil ist so, wie du aus vorigen Aufgaben kennst.</p>
+<p>Als eine weitere Hilfestellung bekommst du einen Teil des <strong><span style="color:#4682b4;">Klartext</span></strong>es.</p>
+<p><em>Tipp: Arbeite mit allen gegebenen Hilfsmitteln (<strong><span style="color:#4682b4;">Klartext</span></strong>, Sortieren der einzelnen Buchstaben, Bigramme und Trigramme)</em></p>
+
+TEACHER
+
+The interface for you is exactly the same as for Perm scenario 4. The only difference to this scenario is that students will see both the frequencies of single letters and those of bi- and trigrams. So keep in mind that this task should generally be easier to solve for students as they will have more information available. But of course, again, the difficulty highly depends on the entered text and the provided text settings.
+
+Die Ansicht ist für Sie genau gleich wie im vorigen Szenario. Der einzige Unterschied ist, dass Schüler in diesem Szenario sowohl die Häufigkeitsanalyse der einzelnen Buchstaben sehen als auch jene der Bi- und Trigramme. Beachten Sie also, dass diese Aufgabe generell etwas einfach zu lösen sein sollte, da mehr Informationen vorhanden sind. Trotzdem hängt die Schwierigkeit grösstenteils vom eingegebenen Text und den Einstellungen ab.
+
+Perm 6
+
+English
+
+<p>This last exercise for the cryptosystem Perm is a full attack on the given <strong><span style="color:#eb4387;">ciphertext</span></strong>. You have all help tools available. </p>
+<p><em>Hint: Work with all available help tools (sorting of the individual letters, bigrams and trigrams)</em></p>
+
+German
+
+<p>Diese letzte Übung für das Kryptosystem Perm ist der Angriff auf einen gegebenen <strong><span style="color:#eb4387;">Geheimtext</span></strong>. Dir stehen alle Hilfsmittel zur Verfügung.</p>
+<p><em>Tipp: Arbeite mit allen gegebenen Hilfsmitteln (Sortieren der einzelnen Buchstaben, Bigramme und Trigramme)</em></p>
+
+TEACHER
+
+The only difference with Perm scenario 5 is that in this scenario no partial plaintext can be provided.
+
+In diesem Szenario können Sie keinen Teil des Klartextes angeben.
+
+
+Vigenere 1
+
+English
+
+<p>In this first Vigenère task the given <strong><span style="color:#4682b4;">plaintext</span></strong> should be encrypted with the displayed key. To facilitate the task, the <strong><span style="color:#4682b4;">plaintext</span></strong> is shown together with the repeating key on the left side in the middle. Furthermore you see a Vigenère Table on the right.</p>
+<p>With the help of the arrows you can navigate to the quadrant that you need.</p>
+<p>Once you are happy with your <strong><span style="color:#eb4387;">ciphertext</span></strong> solution click on the "Check" button. The program will then let you know if your solution was correct or otherwise show you where corrections should be made.</p>
+<p><em>Hint:If you should still have some difficulties please read the section about the cryptosystem Vigenère in the book (Page 101-106).</em></p>
+
+German
+
+<p>In dieser ersten Vigenère Aufgabe sollst du den gegebenen <strong><span style="color:#4682b4;">Klartext</span></strong> mit dem angezeigten Schlüssel verschlüsseln. Als Hilfe wird dir in der Mitte links der <strong><span style="color:#4682b4;">Klartext</span></strong> zusammen mit dem sich wiederholenden Schlüssel angezeigt. Ausserdem siehst du rechts in der Mitte eine Vigenère-Tabelle.</p>
+<p>Du kannst dir mit Hilfe der Pfeile den richtigen Quadranten der Vigenère-Tabelle anzeigen lassen.</p>
+<p>Bist du mit deiner Lösung zufrieden, klicke auf den "Prüfen" Knopf. Das Programm meldet entweder, dass deine Lösung korrekt ist, oder zeigt dir an, wo du noch Verbesserungen vornehmen solltest.</p>
+<p><em>Tipp: Falls du trotzdem noch Schwierigkeiten hast, lies bitte im Buch den Abschnitt über das Kryptosystem Vigenère (Seite 101-106).</em></p>
+
+TEACHER
+
+This first Vigenère task has students encrypting a given plaintext with a given key. Please be mindful of the length of the text entered as too long texts will cause the task to be repetitive.
+
+In dieser ersten Vigenère Aufgabe müssen Schüler einen gegebenen Klartext mit einem gegebenen Schlüssel verschlüsseln. Bitte achten Sie auf die Länge des Textes, da die Aufgabe bei längeren Texten sehr repetitiv wird.
+
+Vigenere 2
+
+English
+
+<p>In this exercise you see the <strong><span style="color:#4682b4;">plaintext</span></strong>, the <strong><span style="color:#eb4387;">ciphertext</span></strong> and a key. The problem however is that the shown key is not entirely correct.</p>
+<p>It is your task to correct the shown key. You have very similar help tools as in the first exercise. On the right side you again have the Vigenère Table. On the left side for assistance you see the <strong><span style="color:#4682b4;">plaintext</span></strong> with the key below each other and below that the <strong><span style="color:#eb4387;">ciphertext</span></strong>. You can enter your corrected key into the text field and update it with the button below. If you think to have found the correct key click on the "Check" button. The program will indicate whether your answer is correct or not.</p>
+<p><em>Hint: Do not assume that the key is an actual word. Check position for position if the key letter is correct of not. </em></p>
+
+German
+
+<p>In dieser Übung siehst du den <strong><span style="color:#4682b4;">Klartext</span></strong>, den <strong><span style="color:#eb4387;">Geheimtext</span></strong> und einen Schlüssel. Das Problem ist nun aber, dass der angezeigte Schlüssel nicht ganz korrekt ist.</p>
+<p>Deine Aufgabe ist es, den angezeigten Schlüssel zu korrigieren. Du hast dazu ähnliche Hilfsmittel wie in der ersten Aufgabe. Auf der rechten Seite siehts du wieder die Vigenère Tabelle. Auf der linken Seite hast du als Hilfe den <strong><span style="color:#4682b4;">Klartext</span></strong> zusammen mit dem Schlüssel untereinander angezeigt. Noch einmal darunter siehst du den <strong><span style="color:#eb4387;">Geheimtext</span></strong>. In das Textfeld kannst du deinen korrigierten Schlüssel eintragen. Du kannst den Schlüssel mit dem Knopf darunter aktualisieren. Sobald du meinst, den korrekten Schlüssel eingetragen zu haben, klicke auf den "Prüfen" Knopf. Das Programm wird dir dann angeben, ob die Antwort richtig oder falsch ist.</p>
+<p><em>Tipp: Gehe nicht davon aus, dass der Schlüssel ein sinnvolles Wort ist. Überprüfe Position für Position ob der Schlüsselbuchstabe korrekt ist oder nicht.</em></p>
+
+TEACHER
+
+In this scenario students have to correct a given key based on a given plain-/ciphertext pair. The text you enter does not really influence the difficulty of the task or the time required to solve it. The chosen key length however does influence the amount of time needed to solve the task. When creating a wrong key keep in mind that you also have the option to change the length of the key. This will require students to think a little outside the box.
+
+In diesem Szenario müssen Schüler einen falschen Schlüssel basierend auf einem Klar-/Geheimtext Paar korrigieren. Der eingegebene Text beeinflusst die Schwierigkeit und die Dauer der Aufgabe nicht. Die gewählte Schlüssellänge beeinflusst jedoch die benütigte Zeit, um die Aufgabe zu lösen. Wenn Sie den "falschen" Schlüssel eingeben, beachten Sie, dass Sie auch die Möglichkeit haben, die Schlüssellänge zu verändern. Dies führt dazu, dass Schüler etwas um die Ecke denken müssen.
+
+Vigenere 3
+
+English
+
+<p>This task is about the Kasiski test. You receive a <strong><span style="color:#eb4387;">ciphertext</span></strong> and some further information in the middle of the screen. Your goal is to calculate the GCD based on all information.</p>
+<p>In case you do not remember exactly what the Kasiski test is and how it works please read the section cryptoanalysis of Vigenère in the book on pages 106-111.</p>
+<p>The information in the middle are text components that appear multiple times in the <strong><span style="color:#eb4387;">ciphertext</span></strong> and are therefore helpful for the Kasiski test. Below each text component it is indicated how many times it appears in the <strong><span style="color:#eb4387;">ciphertext</span></strong>. If you click on the text component the program will mark all occurrences in the <strong><span style="color:#eb4387;">ciphertext</span></strong>.</p>
+<p>If you now want to find the position of a specific letter in the <strong><span style="color:#eb4387;">ciphertext</span></strong> you can simply mark that letter. The position will be displayed below the text components.</p>
+<p>If you finish soling the task the program will ask you whether you want to check the calculated key length. In case you feel curious to do this and even decipher the text click on "Yes".</p>
+<p><em>Hint: First calculate all distances between occurrences of each text component. Afterwards you can calculated the GCD using all distances.</em></p>
+<p><em>Comment for the Curious: It is possible that not all text components that appear multiple times are present. This has different reasons. First we do not want that you have to calculate too many distances. Secondly the Kasiski test often results in a GCD of 1 if there are many repeating text components. This is also the reason why we ignore bigrams.</em></p>
+
+German
+
+<p>In dieser Aufgabe sollst du dich näher mit dem Kasiski Test beschäftigen. Dazu erhältst du einen <strong><span style="color:#eb4387;">Geheimtext</span></strong> und weitere Informationen in der Mitte des Fensters. Dein Ziel ist es, basierend auf allen Informationen den ggT zu berechnen.</p>
+<p>Solltest du dich gerade nicht mehr genau daran erinnern, was der Kasiski Test ist und wie er funktioniert, lies doch bitte den Abschnitt Kryptoanalyse von Vigenère im Buch auf Seite 106-111.</p>
+<p>Die Informationen in der Mitte sind Textteile, die im <strong><span style="color:#eb4387;">Geheimtext</span></strong> mehrfach vorkommen und somit für den Kasiski Test hilfreich sind. Unter jedem Textteil steht zusätzlich, wie oft dieser Teil im <strong><span style="color:#eb4387;">Geheimtext</span></strong> vorkommt. Du kannst auf den Textteil klicken, dann markiert das Programm alle Vorkommnisse im <strong><span style="color:#eb4387;">Geheimtext</span></strong>.</p>
+<p>Möchtest du nun die Position eines bestimmten Buchstabens im <strong><span style="color:#eb4387;">Geheimtext</span></strong> herausfinden, so kannst du den Buchstaben einfach markieren. Die Position wird dir unterhalb der Textteile angezeigt.</p>
+<p>Wenn du die Aufgabe fertig gelöst hast, wird dich das Programm fragen, ob du deine berechnete Schlüssellänge überprüfen möchtest. Falls du Lust hast, dies zu tun und dabei allenfalls sogar den Text zu entschlüsseln, klicke auf "Ja".</p>
+<p><em>Tipp: Berechne zuerst alle Distanzen zwischen den Vorkommnissen eines Textteils. Danach kannst du aus allen Distanzen den ggT berechnen.</p>
+<p><em>Bemerkung für Interessierte: Es kann sein, dass nicht alle mehrfach vorkommenden Textteile vorhanden sind. Dies hat verschiedene Gründe. Einerseits möchten wir nicht, dass du zu viele Distanzen berechnen musst. Andererseits ist es beim Kasiski Test fast immer so, dass bei zu vielen Textteilen der ggT 1 wird. Aus demselben Grund werden auch Bigramme ignoriert.</em></p>
+
+TEACHER
+
+This scenario will have students performing the Kasiski Test with help by the program. The only important aspect of the text and key you enter is how many repeating patterns it generates in the ciphertext. The information will be displayed in real-time above the plaintext section. Another important part of creating this exercise is indicating the maximum number of xgrams that should be shown to students for a specific length. This number is an upper limit and may not be reached. Keep in mind that students will have to calculate the distances for each of the shown xgrams. So setting this number to somewhere between 2 and 4 tends to create tasks that can be solved within a reasonable amount of time. Of course you can set the number between 1 and 10 if you wish.
+
+In dieser Aufgabe müssen Schüler einen Kasiski Test mit Hilfe des Programms berechnen. Der wichtigste Aspekt des eingegebenen Textes und Schlüssels ist, wie viele sich repetierende Textteile im Geheimtext generiert werden. Diese Information wird Ihnen oberhalb des Klartextes in Echtzeit angezeigt. Ein weiterer wichtiger Teil beim Erstellen einer Aufgabe ist es, die den Schülern maximal angezeigte Anzahl von X-Grammen einer bestimmten Länge anzugeben. Diese Zahl stellt ein oberes Limit dar und wird allenfalls nicht erreicht. Beachten Sie bitte, dass Schüler die Distanzen für jedes angezeigte X-Gramm berechnen müssen. Wenn Sie das obere Limit auf 2 oder 3 setzen, sollte dies eine Aufgabe erstellen, die in vernünftiger Zeit gelöst werden kann. Natürlich können Sie die Zahl auch zwischen 1 und 10 setzen.
+
+Vigenere 4
+
+English
+
+<p>Your task is to calculate the Friedman Characteristic of the given <strong><span style="color:#eb4387;">ciphertext</span></strong> by hand. The program will provide you with assistance by showing either the absolute of relative frequencies of all letters in the <strong><span style="color:#eb4387;">ciphertext</span></strong>. </p>
+<p>If you have calculated FC(<strong><span style="color:#eb4387;">ciphertext</span></strong>) enter the result in the two corresponding fields and click on "Check".</p>
+<p><em>Hint: Pay attention to whether relative or absolute frequencies are shown. Depending on which one you see a different formula has to be applied. If you still have difficultires read page 119 in the book. </em></p>
+
+German
+
+<p>In dieser Aufgabe sollst du von Hand die Friedmasche Charakteristik des <strong><span style="color:#eb4387;">Geheimtext</span></strong>es berechnen. Das Programm gibt dir dazu als Hilfe entweder die absoluten oder relativen Häufigkeiten aller Buchstaben an.</p>
+<p>Wenn du die FC(<strong><span style="color:#eb4387;">Geheimtext</span></strong>) ausgerechnet hast, so trage sie in die zwei Felder ein und klicke auf Prüfen.</p>
+<p><em>Tipp: Achte darauf, ob du relative oder absolute Häufigkeiten angezeigt bekommst. Je nach dem muss eine andere Formel verwendet werden, um die Friedmansche Charakteristik zu berechnen. Falls du weiterhin Schwierigkeiten hast, lies Seite 119 im Buch.</em></p>
+
+TEACHER
+
+Students will have to calculate the FC of the ciphertext. They are either provided with the absolute letter frequencies or the relative ones based on what you indicate when creating the exercise.
+
+Schüler müssen die FC des Geheimtextes berechnen. Sie erhalten dazu entweder die absoluten oder die relativen Häufigkeiten basierend auf Ihrer Auswahl.
+
+
+Vigenere 5
+
+English
+
+<p>In this task you will be working with the Friedman test. Your goal is to find out the length of the key that was used to encrypt the <strong><span style="color:#4682b4;">plaintext</span></strong>.</p>
+<p>In the upper part you see a number ray. It represents possible key lengths. You can click on a value. The program will then calculate the Friedman test for the indicated key length. </p>
+<p>Look closely at the generated graph and think about which key length might be the correct one. If you have an idea you can enter it in the text field below the graph and test it.</p>
+<p><em>Hint: Draw the entire graph first. Think about what K_d and K_g actually mean. If you still are facing difficulties, consider that it is possible that the graphically best solution is not the correct one. </em></p>
+
+German
+
+<p>In dieser Übung wirst du mit dem Friedman Test arbeiten. Dein Ziel ist es herauszufinden, wie lange der Schlüssel war, der verwendet wurde, um den <strong><span style="color:#4682b4;">Klartext</span></strong> zu verschlüsseln.</p>
+<p>Im oberen Teil siehst du einen Zahlenstrahl. Er repräsentiert mögliche Schlüssellängen. Du kannst auf einen Wert klicken. Das Programm berechnet dir dann den Friedman Test für die angegebene Schlüssellänge.</p>
+<p>Schaue dir den entstehenden Graphen genau an und überlege dir, welche Schlüssellänge wohl die richtige sein könnte. Hast du eine Idee, so kannst du sie unten eintragen und überprüfen lassen.</p>
+<p><em>Tipp: Zeichne zuerst den kompletten Graphen. Überlege dir, was K_d und K_g bedeutet. Falls du weiterhin Schwierigkeiten haben solltest, beachte, dass es auch möglich ist, dass die graphisch beste Lösung nicht die korrekte Lösung ist.</em></p>
+
+TEACHER
+
+While creating this task notice the Friedman Test results that will update in real-time. It is important that the text you enter results in a statistic where the actual key length you enter results in a point close to K_d.
+
+Während Sie diese Aufgabe erstellen, achten Sie auf den sich aktualisierenden Friedman Test. Es ist wichtig, dass der eingegebene Text eine Statistik produziert, in welcher die effektiv gewählte Schlüssellänge in der Nähe von K_d liegt.
+
+Vigenere 6
+
+English
+
+<p>This exercise focuses on the Sinkov test. It is your task to verify whether the calculated key length of the Sinkov test is actually the correct one used. </p>
+<p>For that purpose you can let the program calculate the Sinkov test first. The calculated value is automatically rounded, this is the key length that you should now verify. You will of course receive some help from the program.</p>
+<p>As soon as you click on the verify button you will see a new element. You should already be familiar with a part of this elemetn from the Caesar Attack Exercise. With the help of this new element you can leaf through the text parts that were encrypted with the same part of the key. You will be able to see in both the <strong><span style="color:#4682b4;">plaintext</span></strong> and the <strong><span style="color:#eb4387;">ciphertext</span></strong> which letters are currently taken into account.</p>
+<p>You can now determine the key for each text part. Simply drag the upper letter row until you think the shift is correct. Then press on the "set key" button. The program will then update the current key as well as the <strong><span style="color:#4682b4;">plaintext</span></strong>.</p>
+<p>As soon as the key is finished the program will ask you whether you think the calculated Sinkov key is correct or not.</p>
+<p>In case of the calculated key not being correct, you have the possibiity to find the correct key at the end.</p>
+<p><em>Hint: Keep in mind that it is possible for the key to be wrong. Pay attention to the frequency analysis.</em></p>
+
+German
+
+<p>In dieser Aufgabe geht es um den Sinkov Test. Deine Aufgabe ist es zu verifizieren, ob die vom Sinkov Test berechnete Schlüssellänge auch tatsächlich die richtige ist.</p>
+<p>Dazu kannst du dir zuerst den Sinkov Test vom Programm berechnen lassen. Der berechnete Wert wird automatisch gerundet; dies ist die Länge, die du nun überprüfen solltest. Dazu erhältst du natürlich Hilfe vom Programm.</p>
+<p>Sobald du den Verifizieren Knopf geklickt hast, siehst du ein neues Element. Einen Teil dieses Elements kennst du bereits von der Caesar Angriff Aufgabe. Mit Hilfe des neuen Elements kannst du in den einzelnen Textteilen, die mit demselben Teil des Schlüssels verschlüsselt wurden, blättern. Es wird dir jeweils im <strong><span style="color:#eb4387;">Geheimtext</span></strong> und <strong><span style="color:#4682b4;">Klartext</span></strong> angezeigt, welche Buchstaben im aktuellen Text vorhanden sind.</p>
+<p>Du kannst nun für jeden einzelnen Textteil den Schlüssel ermitteln. Bewege einfach die obere Buchstabenreihe, bis du denkst, die Verschiebung ist korrekt. Klicke nun unten auf "Schlüssel setzen". Das Programm aktualisiert dann den aktuellen Schlüssel sowie den <strong><span style="color:#4682b4;">Klartext</span></strong>.</p>
+<p>Sobald du den Schlüssel komplett fertig hast, fragt dich das Programm, ob du denkst, dass der berechnete Sinkov Schlüssel korrekt ist oder nicht.</p>
+<p>Sollte der berechnete Schlüssel nicht korrekt sein, kannst du am Ende den korrekten Schlüssel herausfinden, wenn du möchtest.</p>
+<p><em>Tipp: Beachte, dass es sein kann, dass der Schlüssel nicht richtig ist. Achte besonders auf die Häufigkeitsanalyse.</em></p>
+
+TEACHER
+
+While entering the text for this exercise, keep looking at the result of the Sinkov test. It is absolutely not necessary that the result of the Sinkov test corresponds to your chosen key length as students have the task of verifying the Sinkov test result. In order to be able to save the task, the Sinkov test result has to be bigger or equal to 0.5!
+
+Währen Sie den Text zu dieser Übung eingeben, schauen Sie auf das Resultat des Sinkov Tests. Es ist absolut nicht nötig, dass das Sinkov Testresultat mit der effektiven Schlüssellänge übereinstimmt, da Schüler das Sinkov Testresultat verifizieren müssen. Damit die Aufgabe gespeichert werden kann, muss der Sinkov Test ein Resultat grösser gleich 0.5 haben!
+
+Vigenere 7
+
+English
+
+<p>In the last Vigenère task you should attack the given <strong><span style="color:#eb4387;">ciphertext</span></strong>. To do this the program can calculate all available tests for you. If you have decided on a key length enter it in the corresponding textfield.</p>
+<p>As soon as you set the key length the now familiar element will appear. Good luck!</p>
+<p><em>Hint: Pay special attention to the frequency analysis. If the frequencies appear to be all to odd it is possible that either the <strong><span style="color:#eb4387;">ciphertext</span></strong> is very short or that the key length you entered is wrong.</em></p>
+
+German
+
+<p>In dieser letzten Vigenère Aufgabe sollst du den gegebenen <strong><span style="color:#eb4387;">Geheimtext</span></strong> angreifen. Dazu kannst du vom Programm alle verfügbaren Tests berechnen lassen. Hast du dich für eine Schlüssellänge entschieden, trage sie ein.</p>
+<p>Sobald du die Schlüssellänge gesetzt hast, erscheint das bekannte Element. Viel Erfolg!</p>
+<p><em>Tipp: Achte besonders auf die Häufigkeitsanalyse. Falls die Häufigkeiten allzu merkwürdig erscheinen, kann es entweder sein, dass der Text sehr kurz ist, oder aber die Schlüssellänge ist nicht korrekt.</em></p>
+
+TEACHER
+
+For this last Vigenère scenario students will have to perform an attack on the ciphertext. They have all three introduced tests available: Kasiski, Friedman and Sinkov. While creating the task keep an eye on the results for those tests.
+
+In dieser letzte Vigenère Aufgabe müssen Schüler einen Angriff auf den Geheimtext durchführen. Sie haben dazu alle eingeführten Tests zu Verfügung: Kasiski, Friedman und Sinkov. Während Sie die Aufgabe erstellen, achten Sie auf die Resultate der Tests.
+
+
+OTHER THINGS
+
+<p>In the overview you see all tasks for the cryptosystem Vigenère. The tasks are ordered such that you will always increase your knowledge by a small piece.
+For this reason you best solve the tasks in the indicated order.</p>
+<p>Should you face any difficulties while solving a task press on the help button. The help always explains what you have to do, what you can do and sometimes contains tips for solving the task.</p>
+
+<p>In dieser Übersicht siehst du alle Aufgaben zum Kryptosystem Vigenère. Die Aufgaben sind so geordnet, dass du immer ein kleines Stück dazu lernst. Deshalb löst du sie am besten in der vorgegebenen Reihenfolge.</p>
+<p>Solltest du bei einer Übung Schwierigkeiten haben, so klicke auf den Hilfeknopf. In der Hilfe ist jeweils erklärt, was du machen musst, was du machen kannst und teilweise erhältst du auch Tipps zur Aufgabe.</p>
+
